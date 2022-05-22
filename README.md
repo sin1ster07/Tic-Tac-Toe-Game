@@ -21,15 +21,3 @@
 - For Windows users,you may download the [Application](https://drive.google.com/open?id=0B0NP6taS3z-yY3EydzNPcU1OQnc) to know how the game is played.
 - The code doesn't work for Linux Laptops due to usage of certain functions like ```getch()```
 
-### Contribution
-- The repository is open to contribution from all interested developers(mainly beginners).
-- You may go through [CONTRIBUTING.md](https://github.com/mishal23/Tic-Tac-Toe/blob/master/CONTRIBUTING.md) to see what you can contribute to.
-- Also, you can write by opening an [Issue](https://github.com/mishal23/Tic-Tac-Toe/issues) and also solve a current issue if possible.
-- Fork this project to your Github acoount.
-- After forking enter following commands in your terminal.
-```
-$ git clone https://github.com/mishal23/Tic-Tac-Toe
-$ cd Tic-Tac-Toe
-$ vi Code.c
-```
-- Kindly send Pull Requests with explanation as to what changes you have done.
